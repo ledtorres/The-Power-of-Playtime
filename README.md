@@ -19,10 +19,10 @@ A data analysis of 350+ games exploring how length, design, and genre impact pla
 - 2016, 2020, 2022 had the biggest differences between critic and user scores.
 
 # Tech Stack
-[Python (pandas, matplotlib) - Dataset creation, initial analysis]
+**Python** (pandas, matplotlib) - Dataset creation, initial analysis
 
-[Tableau - Data visualization & dashboards]
+**Tableau** - Data visualization & dashboards
 
-[Web Scraping - Research & data collection]
+**Web Scraping** - Research & data collection
 
-[Canva - Presentation design]
+**Canva** - Presentation design
