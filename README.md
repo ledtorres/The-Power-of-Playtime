@@ -3,9 +3,12 @@
 A data analysis of 350+ games exploring how length, design, and genre impact player completion!
 
 # Quick Links
-[Full Presentation]()
+[Full Presentation](https://www.canva.com/design/DAGhkdVxa34/a110fOrbj5B2OinSoNBoXw/edit?utm_content=DAGhkdVxa34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 [Jupyter Notebook](notebooks/power_of_playtime.ipynb)
+
 [Raw Data](data/vg dataset.csv)
+
 [Raw Speedrun Data](data/vg nintendoset.csv)
 
 # Key Insights
