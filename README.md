@@ -1,6 +1,6 @@
 # 🎮 The Power of Playtime 🎮
 
-A data analysis of 350+ games from 2014 to October 2025, exploring how length, design, and genre impact player completion!
+A data analysis of 350+ games from 2014-2025, exploring how length, design, and genre impact player completion!
 
 # Quick Links
 [Full Presentation](https://www.canva.com/design/DAGhkdVxa34/a110fOrbj5B2OinSoNBoXw/edit?utm_content=DAGhkdVxa34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
