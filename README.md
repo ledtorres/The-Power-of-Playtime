@@ -11,6 +11,8 @@ A data analysis of 350+ games exploring how length, design, and genre impact pla
 
 [Raw Speedrun Data](data/vg_nintendoset.csv)
 
+[Tableau Workbook](https://public.tableau.com/app/profile/eduardo.torres4740/viz/thepowerofplaytime/Lengthhist)
+
 # Tableau Workbook
 
 
