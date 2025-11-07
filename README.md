@@ -7,9 +7,9 @@ A data analysis of 350+ games exploring how length, design, and genre impact pla
 
 [Jupyter Notebook](notebooks/power_of_playtime.ipynb)
 
-[Raw Data](data/vg dataset.csv)
+[Raw Data](data/vgdataset.csv)
 
-[Raw Speedrun Data](data/vg nintendoset.csv)
+[Raw Speedrun Data](data/vgnintendoset.csv)
 
 # Key Insights
 - FromSoftware's amazing player retention and completion defy difficulty expectations.
@@ -20,6 +20,9 @@ A data analysis of 350+ games exploring how length, design, and genre impact pla
 
 # Tech Stack
 [Python (pandas, matplotlib) - Dataset creation, initial analysis]
+
 [Tableau - Data visualization & dashboards]
+
 [Web Scraping - Research & data collection]
-[Canav - Presentation design]
+
+[Canva - Presentation design]
