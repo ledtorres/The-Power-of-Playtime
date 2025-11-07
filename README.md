@@ -5,13 +5,13 @@ A data analysis of 350+ games exploring how length, design, and genre impact pla
 # Quick Links
 [Full Presentation](https://www.canva.com/design/DAGhkdVxa34/a110fOrbj5B2OinSoNBoXw/edit?utm_content=DAGhkdVxa34&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+[Tableau Workbook](https://public.tableau.com/app/profile/eduardo.torres4740/viz/thepowerofplaytime/Lengthhist)
+
 [Jupyter Notebook](notebooks/power_of_playtime.ipynb)
 
 [Raw Data](data/vg_dataset.csv)
 
 [Raw Speedrun Data](data/vg_nintendoset.csv)
-
-[Tableau Workbook](https://public.tableau.com/app/profile/eduardo.torres4740/viz/thepowerofplaytime/Lengthhist)
 
 # Tableau Workbook
 
