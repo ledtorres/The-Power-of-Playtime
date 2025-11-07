@@ -11,6 +11,9 @@ A data analysis of 350+ games exploring how length, design, and genre impact pla
 
 [Raw Speedrun Data](data/vg_nintendoset.csv)
 
+# Tableau Workbook
+
+
 # Key Insights
 - FromSoftware's amazing player retention and completion defy difficulty expectations.
 - Call of Duty's has a dying model for the fans but sales say otherwise.
