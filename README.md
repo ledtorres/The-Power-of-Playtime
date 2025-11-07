@@ -1,4 +1,4 @@
-# 🎮 The Power of Playtime
+# 🎮 The Power of Playtime 🎮
 
 A data analysis of 350+ games exploring how length, design, and genre impact player completion!
 
