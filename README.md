@@ -7,9 +7,9 @@ A data analysis of 350+ games exploring how length, design, and genre impact pla
 
 [Jupyter Notebook](notebooks/power_of_playtime.ipynb)
 
-[Raw Data](data/vgdataset.csv)
+[Raw Data](data/vg_dataset.csv)
 
-[Raw Speedrun Data](data/vgnintendoset.csv)
+[Raw Speedrun Data](data/vg_nintendoset.csv)
 
 # Key Insights
 - FromSoftware's amazing player retention and completion defy difficulty expectations.
